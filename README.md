@@ -36,9 +36,6 @@ The goal is to identify key barriers to **skilled birth attendance** and provide
 - Place of delivery
 - Skilled birth attendance indicators
 
-> Note: DHS datasets often require account access. This repo can store cleaned data or scripts without uploading restricted raw files.
-
----
 
 ## 🛠 Tools Used
 - Python (Pandas, NumPy)
